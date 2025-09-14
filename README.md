@@ -29,36 +29,36 @@ This project brings that illusion to life using **Python** and **OpenCV** by det
    ```bash
    git clone https://github.com/YourUsername/Invisibility-Cloak.git
    cd Invisibility-Cloak
-2.Install required dependencies:
+  2.Install required dependencies:
   ```bash
   pip install opencv-python numpy
   ```
-3.Run the script:
+  3.Run the script:
 ```bash
 python invisible_cloak.py
 ```
 🎮 Usage
-Make sure your webcam is connected.
+1.Make sure your webcam is connected.
 
-Place yourself in front of the camera with the cloak (any solid color like red/blue/green).
+2.Place yourself in front of the camera with the cloak (any solid color like red/blue/green).
 
-The script will detect that color and replace it with the background frame, creating the invisibility effect.
+3.The script will detect that color and replace it with the background frame, creating the invisibility effect.
 
-Press q to quit the application.
+4.Press q to quit the application.
 
 📸 Demo
-(Add screenshots or GIFs here once you record the output)
+Will upload later
 
 Example:
 
 🎯 Learning Outcomes
-Basics of image processing and masking.
+- Basics of image processing and masking.
 
-Working with HSV color spaces in OpenCV.
+- Working with HSV color spaces in OpenCV.
 
-Real-time background replacement techniques.
+- Real-time background replacement techniques.
 
-Hands-on practice in computer vision projects.
+- Hands-on practice in computer vision projects.
 
 🤝 Contributing
 Pull requests are welcome! If you’d like to improve detection accuracy, add new effects, or support multiple colors, feel free to contribute.
