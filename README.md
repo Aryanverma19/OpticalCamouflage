@@ -29,16 +29,18 @@ This project brings that illusion to life using **Python** and **OpenCV** by det
    ```bash
    git clone https://github.com/YourUsername/Invisibility-Cloak.git
    cd Invisibility-Cloak
-Install required dependencies:
+2.Install required dependencies:
 
 bash
 Copy code
 pip install opencv-python numpy
-Run the script:
+
+3.Run the script:
 
 bash
 Copy code
 python invisible_cloak.py
+
 🎮 Usage
 Make sure your webcam is connected.
 
