@@ -31,9 +31,9 @@ This project brings that illusion to life using **Python** and **OpenCV** by det
    cd Invisibility-Cloak
 2.Install required dependencies:
 
-bash
-Copy code
-pip install opencv-python numpy
+- bash
+- Copy code
+- pip install opencv-python numpy
 
 3.Run the script:
 
