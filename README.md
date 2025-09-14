@@ -34,9 +34,9 @@ This project brings that illusion to life using **Python** and **OpenCV** by det
   pip install opencv-python numpy
   ```
   3.Run the script:
-```bash
-python invisible_cloak.py
-```
+  ```bash
+  python invisible_cloak.py
+  ```
 🎮 Usage
 1.Make sure your webcam is connected.
 
@@ -65,3 +65,5 @@ Pull requests are welcome! If you’d like to improve detection accuracy, add ne
 
 📄 License
 This project is open-source and available under the MIT License
+
+⭐ If you like this project, don’t forget to star the repository and share it!
